@@ -1,0 +1,11 @@
+cpanm -L extlib Regexp::Grammars
+
+wget -O monday.html http://www.yapc2011.us/yn2011/schedule?day=2011-06-27
+wget -O tuesday.html http://www.yapc2011.us/yn2011/schedule?day=2011-06-28
+wget -O wednesday.html http://www.yapc2011.us/yn2011/schedule?day=2011-06-29
+
+# http://wiki.inkscape.org/wiki/index.php/Tools#Multipage_presentation_or_book
+# http://code.google.com/p/jessyink/wiki/Publications
+# http://www.timteatro.net/2010/07/31/installing-jessyink/
+# http://www.timteatro.net/2010/08/12/a-tutorial-introduction-to-jessyink-presentations-in-inkscape/
+
